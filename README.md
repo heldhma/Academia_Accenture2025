@@ -4,3 +4,7 @@
 Fiz um vídeo não listado para a melhor visualização do projeto:
 
 https://www.youtube-nocookie.com/embed/6fVC1S6FrCk?si=arnZrXMCOQAPedxd
+
+
+## Áudio testado - Atualização 
+https://youtu.be/v2qDbFQW8pQ?si=u-foaWdJd6hXiY3W
